@@ -73,6 +73,7 @@ a:active {
 img{
 	position: fixed;
 	bottom: 0%;
+	left: auto;
 	width: 20vw;
 }
 
